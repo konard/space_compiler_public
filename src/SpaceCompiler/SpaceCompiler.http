@@ -1,0 +1,6 @@
+@SpaceCompiler_HostAddress = http://localhost:5143
+
+GET {{SpaceCompiler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
